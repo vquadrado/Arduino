@@ -30,7 +30,7 @@ APRENDIZADO:
   Funções "built-in" da interface Serial de Read.
   
 RT00000004: INTERFACE SERIAL
-HARDWARE: Somente Arduino Uno.
+HARDWARE: Somente Arduino Uno. 
   Printar no console serial 1 vez: "RT00000004 OK" ao receber pelo console serial uma string "ping" (sem as aspas).
   Nota: string nesse contexto se refere a uma sequencia de caracteres que o usuário envia pelo console serial. Dentro do programa pode ser tratado como quiser, como tipo "String",           como tipo "array/vetor de caracteres", ou simplesmente comparar caracter por caracter do buffer de recepção.
 APRENDIZADO:
